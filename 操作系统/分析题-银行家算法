@@ -1,0 +1,3 @@
+根据MAX减去Allocation算出Need  
+从可获得资源开始，比Need大就加Allocation  
+能一直加到最后就是安全序列
